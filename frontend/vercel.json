@@ -1,0 +1,10 @@
+{
+  "env": {
+    "NEXT_PUBLIC_REST_API_ENDPOINT": "https://ap-south-1.aws.data.mongodb-api.com/app/heegasportsapp-bvlho/endpoint"
+  },
+  "build": {
+    "env": {
+      "NEXT_PUBLIC_REST_API_ENDPOINT": "https://ap-south-1.aws.data.mongodb-api.com/app/heegasportsapp-bvlho/endpoint"
+    }
+  }
+}
